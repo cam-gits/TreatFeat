@@ -8,3 +8,5 @@ I coded everything over 24 hours using the Playdate SDK with two additional libr
 Sounds are licenced from Ovani, title font is Curse of the Zombie by imagex (now with added dithering)
 
 All other assets are my own and created over the jam. 
+
+Executable at [CamIam.itch.io](https://camiam.itch.io/treat-feat)
