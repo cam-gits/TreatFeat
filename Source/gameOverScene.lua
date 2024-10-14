@@ -9,6 +9,7 @@ class('GameOverScene').extends(gfx.sprite)
 
 function GameOverScene:init()
 
+    difficultyMod = 160
     resetDamage()
 
     if not GAME_MUSIC:isPlaying() then
