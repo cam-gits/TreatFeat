@@ -1,6 +1,8 @@
 # TreatFeat
 A simple game for the Panic Playdate; created in 24 hours for PlayJam6.
 
+![alt text](https://github.com/cam-gits/TreatFeat/blob/main/Treat%20Feat.gif "Game Screenshot")
+
 This is my first “finished” game and my first jam, so expect some jank.
 
 I coded everything over 24 hours using the Playdate SDK with two additional libraries; Whitebrims [Animated Sprite Helper Class](https://github.com/Whitebrim/AnimatedSprite) and SquidGodDevs [Playdate Scene Management](https://github.com/SquidGodDev/Playdate-Scene-Management).
