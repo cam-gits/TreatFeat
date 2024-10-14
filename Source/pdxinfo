@@ -1,0 +1,7 @@
+name=TreatFeat
+author=CamIam
+description= There’s goulies at the door, better take them out before they try to come inside. Made for PlayJam 6
+bundleID=cam.lyttle.g001
+version=0.0.1
+buildNumber=1
+imagePath=images/launcher/card
